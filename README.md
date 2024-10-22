@@ -12,7 +12,7 @@
  
  🔭 I’m currently working in **JMedia Corp.**
  
- 🌱 I’m currently learning **Three.js, Node.js, DSA and many more...**
+ 🌱 I’m currently learning **iOS Development, DevOps, DSA and many more...**
 
 💬 Ask me about **Web Development... or anything [here](https://www.linkedin.com/in/soham-chakraborty-108450255/)**
 
@@ -35,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,next,threejs,vite,vue,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,php,express,firebase,mongodb,mysql,c,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,next,threejs,vite,vue,html,css,sass,jquery,vscode,github,figma,materialui,fastapi,gatsby,svelte,graphql,tailwind,git,arduino,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,php,express,swift,firebase,mongodb,mysql,c,cpp,netlify,postgres,sqlite,supabase,postman,redis" /><br>
 </div>
 
 <br/>
