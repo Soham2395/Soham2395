@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working in **JMedia Corp.**
+ 🔭 I’m currently working in **Ikarus3D**
  
  🌱 I’m currently learning **iOS Development, DevOps, DSA and many more...**
 
