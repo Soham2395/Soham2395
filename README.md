@@ -10,9 +10,9 @@
 
 <div align="center">
 
-🔭 I’m currently working in **Craftelligence LLP**
+🔭 I’m currently working in **ReelOnGo**
 
-🌱 I’m currently learning **DevOps, DSA and many more...**
+🌱 I’m currently learning **DevOps, AWS and System Design...**
 
 💬 Ask me about **Web Development... or anything [here](https://www.linkedin.com/in/soham-chakraborty-108450255/)**
 
